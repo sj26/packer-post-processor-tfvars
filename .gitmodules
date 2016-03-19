@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/mitchellh/packer"]
+	path = vendor/github.com/mitchellh/packer
+	url = git://github.com/mitchellh/packer.git
